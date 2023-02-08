@@ -1,0 +1,87 @@
+﻿  Algo.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(49,12): error C3646: 'sztPortName': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(49,23): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(49,41): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(50,12): error C3646: 'dwVersion': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(50,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(51,12): error C3646: 'dwProtocol': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(51,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(52,12): error C3646: 'cbSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(52,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(53,12): error C3646: 'dwReserved': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(53,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(54,12): error C3646: 'sztHostAddress': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(54,26): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(54,47): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(55,12): error C3646: 'sztSNMPCommunity': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(55,28): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(55,56): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(56,12): error C3646: 'dwDoubleSpool': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(56,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(57,12): error C3646: 'sztQueue': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(57,20): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(57,39): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(58,12): error C3646: 'sztIPAddress': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(58,24): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(58,44): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(59,12): error C3646: 'Reserved': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(59,20): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(59,25): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(60,12): error C3646: 'dwPortNumber': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(60,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(61,12): error C3646: 'dwSNMPEnabled': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(61,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(62,12): error C3646: 'dwSNMPDevIndex': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(62,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(67,12): error C3646: 'sztPortName': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(67,23): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(67,41): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(68,12): error C3646: 'dwVersion': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(68,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(69,12): error C3646: 'dwProtocol': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(69,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(70,12): error C3646: 'cbSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(70,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(71,12): error C3646: 'dwReserved': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(71,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(72,12): error C3646: 'sztHostAddress': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(72,27): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(72,49): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(73,12): error C3646: 'sztSNMPCommunity': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(73,28): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(73,56): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(74,12): error C3646: 'dwDoubleSpool': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(74,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(75,12): error C3646: 'sztQueue': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(75,20): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(75,39): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(76,12): error C3646: 'Reserved': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(76,20): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(76,25): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(77,12): error C3646: 'dwPortNumber': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(77,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(78,12): error C3646: 'dwSNMPEnabled': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(78,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(79,12): error C3646: 'dwSNMPDevIndex': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(79,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(80,12): error C3646: 'dwPortMonitorMibIndex': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(80,33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(86,11): error C3646: 'dwVersion': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(86,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(87,11): error C3646: 'cPortData': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(87,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(94,12): error C3646: 'psztPortName': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(94,24): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(94,42): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(95,12): error C3646: 'Reserved': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(95,20): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(95,24): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(96,12): error C3646: 'dwVersion': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(96,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(97,12): error C3646: 'dwReserved': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(97,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(103,12): error C3646: 'Reserved': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(103,20): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(103,25): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(104,12): error C3646: 'dwVersion': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\tcpxcv.h(104,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
